@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RESTApiPractice</string>
+    <string name="lbl_result_code">Response Code: %1$d</string>
+    <string name="lbl_result_msg">Response Message: %1$s</string>
+    <string name="lbl_result_body">Response Body:\n%1$s</string>
+    <string name="run_native_req">Run Native Request</string>
+    <string name="run_ok_http_req">Run OkHttp Request</string>
+    <string name="run_retrofit_req">Run RetroFit Request</string>
+    <string name="clear_btn">Clear</string>
+</resources>
